@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LearningReact/static/css/main.05f02be7.css",
+    "main.js": "/LearningReact/static/js/main.5eae16a4.js",
+    "static/js/787.32032a02.chunk.js": "/LearningReact/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.TTF": "/LearningReact/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/LearningReact/index.html",
+    "main.05f02be7.css.map": "/LearningReact/static/css/main.05f02be7.css.map",
+    "main.5eae16a4.js.map": "/LearningReact/static/js/main.5eae16a4.js.map",
+    "787.32032a02.chunk.js.map": "/LearningReact/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f02be7.css",
+    "static/js/main.5eae16a4.js"
+  ]
+}
